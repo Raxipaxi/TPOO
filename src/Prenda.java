@@ -5,7 +5,6 @@ public class Prenda {
 	private String nombre;
 	private Material material;
 	private int cantidad;
-	private int pito;
 	
 	public Prenda(int codigo, Material material, int cantidad)
 	{
