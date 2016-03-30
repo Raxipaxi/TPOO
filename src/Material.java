@@ -1,7 +1,7 @@
 
 public class Material {
 	private int codigo;
-	private int las;
+	private int cambio;
 	
 	public Material(int codigo)
 	{
